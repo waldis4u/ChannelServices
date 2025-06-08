@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Flask
 gunicorn
+=======
+fastapi
+uvicorn
+jinja2
+python-dotenv
+>>>>>>> f72b2753bfafbce2a09a32f67bcb34691b16ac2d

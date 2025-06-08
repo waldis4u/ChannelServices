@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 fastapi
 uvicorn[standard]
 jinja2
-=======
-fastapi
-uvicorn[standard]
-jinja2
->>>>>>> 53472be (Fix port binding)
